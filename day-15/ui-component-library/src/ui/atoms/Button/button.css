@@ -1,0 +1,21 @@
+.btn {
+  border: none;
+  border-radius: var(--radius);
+  padding: 10px 16px;
+  cursor: pointer;
+  color: var(--white);
+  font-weight: 500;
+  transition: transform 0.1s ease, opacity 0.2s;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn:active {
+  transform: scale(0.97);
+}
+
+.primary { background: var(--primary); }
+.secondary { background: var(--secondary); }
+.danger { background: var(--danger); }

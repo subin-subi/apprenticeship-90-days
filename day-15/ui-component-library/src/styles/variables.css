@@ -1,0 +1,15 @@
+:root {
+  --primary: #4f46e5;
+  --secondary: #6b7280;
+  --danger: #ef4444;
+
+  --white: #ffffff;
+  --black: #000000;
+
+  --radius: 8px;
+  --padding: 10px;
+
+  --font-sm: 14px;
+  --font-md: 16px;
+  --font-lg: 18px;
+}
